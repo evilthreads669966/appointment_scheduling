@@ -1,6 +1,6 @@
 # Appointment Scheduling
 
-Schedule appointments for people.
+Schedule appointments for people in the command line.
 
 ```
 Copyright 2023 Chris Basinger
